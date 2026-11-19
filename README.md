@@ -1,23 +1,52 @@
-# Personal website (static, GitHub Pages)
+# Azamat Uzbekov — Personal Portfolio
 
-Plain HTML/CSS/JS, no build step, no backend, no paid services.
+A personal professional website showcasing my experience across business analysis, solution delivery, software development, data analytics, and project coordination.
 
-## Files
-- `index.html`: the whole site (styles and script included)
-- `resume.pdf`: **add this yourself** (resume without phone number)
+**Live website:** https://azamatuz.github.io/  
+**LinkedIn:** https://www.linkedin.com/in/azamatuz/  
+**GitHub:** https://github.com/Azamatuz
 
-## Deploy
-1. On GitHub, create a **public** repository named exactly `Azamatuz.github.io`.
-2. Upload `index.html` and `resume.pdf` (Add file > Upload files > Commit).
-3. Repo **Settings > Pages**: Source = "Deploy from a branch", Branch = `main`, folder `/ (root)`. Save.
-4. After about a minute the site is live at `https://azamatuz.github.io/`.
-5. Update the `url` in the JSON-LD block near the top of `index.html` if your address differs.
+## About
 
-## Update content
-- Edit text directly in `index.html` on GitHub (pencil icon), then commit.
-- **Add a project:** copy one `<div class="card fade">...</div>` block inside the `#work` section and edit it.
-- **Add a job:** copy one `<div class="job">...</div>` in `#experience`.
-- Keep results honest: only state outcomes you can support.
+I turn business needs into software and data solutions. My background spans requirements gathering, stakeholder collaboration, web and AI-assisted product development, IT project management, data analysis, and academic research.
 
-## Optional later
-Add a photo, a custom domain, and a `Selected work` link for each project once you have public links.
+This portfolio highlights selected projects, professional experience, technical skills, and education.
+
+## Featured work
+
+- **MaskFit AR** — Facial-measurement solution developed with Python, MediaPipe, OpenCV, and Vue.js to support CPAP mask preselection.
+- **Business web platform** — Business application features and API-connected functionality using Django and Vue.js.
+- **Multi-vendor marketplace** — E-commerce marketplace development using Django.
+- **Sports statistics dashboard** — Dashboard development and data analysis using Vue.js, Axios, and Python.
+- **Cloud computing pricing research** — Academic research and modelling on cloud resource allocation and pricing strategies.
+
+More details and relevant external references are available on the [portfolio website](https://azamatuz.github.io/).
+
+## Website features
+
+- Responsive, single-page layout
+- Sections for introduction, selected work, experience, skills, education, and contact
+- Light and dark themes based on the visitor's system preference
+- Navigation links to key sections
+- Subtle scroll-reveal effects, with reduced-motion accessibility support
+- Basic SEO metadata and social-sharing metadata
+- Person structured data for search engines
+
+## Built with
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+The site is intentionally lightweight and does not require a build process, backend, or JavaScript framework.
+
+## Contact
+
+For professional opportunities and collaboration:
+
+- **Email:** [azamatuzbekov@outlook.com](mailto:azamatuzbekov@outlook.com)
+- **LinkedIn:** https://www.linkedin.com/in/azamatuz/
+
+---
+
+© Azamat Uzbekov
